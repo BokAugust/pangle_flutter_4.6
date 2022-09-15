@@ -22,7 +22,7 @@ Flutter plugin for Pangle Ad SDK.
   s.default_subspec   = 'cn'
 
   s.subspec 'cn' do |ss|
-    ss.ios.dependency 'Ads-CN', '~> 4.6'
+    ss.ios.dependency 'Ads-CN', '4.6.0.7'
   end
 
   s.subspec 'global' do |ss|
